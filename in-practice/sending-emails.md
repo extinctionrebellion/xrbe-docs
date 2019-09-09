@@ -10,7 +10,7 @@ All local groups and XR Belgium working groups have credentials to Mailtrain. Th
 
 ## Lists
 
-![](../.gitbook/assets/screenshot-2019-08-23-at-06.49.17%20%281%29.png)
+![](../.gitbook/assets/1.png)
 
 The _Rebels_ list is synchronized with the Rebels Manager.
 
@@ -28,7 +28,7 @@ You may create other lists. In the future, we may have synchronized lists for al
 
 This is useful to send test emails to yourself. Find your subscription is the Subscribers list, edit it and check the _Test user?_ box.
 
-![](../.gitbook/assets/screenshot-2019-08-23-at-07.01.29%20%281%29.png)
+![](../.gitbook/assets/2.png)
 
 Then click the _Save and leave_ button.
 
@@ -36,21 +36,21 @@ Then click the _Save and leave_ button.
 
 This is where you go to send an email to your list.
 
-![Create Campaign &amp;gt; Regular](../.gitbook/assets/screenshot-2019-08-23-at-06.55.11.png)
+![Create Campaign &amp;gt; Regular](../.gitbook/assets/3.png)
 
-![Campaign setup](../.gitbook/assets/screenshot-2019-08-23-at-06.57.56.png)
+![Campaign setup](../.gitbook/assets/4.png)
 
-![Edit content](../.gitbook/assets/screenshot-2019-08-23-at-06.58.58.png)
+![Edit content](../.gitbook/assets/5.png)
 
-![You may send a test email](../.gitbook/assets/screenshot-2019-08-23-at-06.59.43.png)
-
-![](../.gitbook/assets/screenshot-2019-08-23-at-07.00.26.png)
+![You may send a test email](../.gitbook/assets/6.png)
 
 Then click the _Save and go to status_ button. Your email has not been sent yet.
 
+![You may also delivered it later](../.gitbook/assets/7.png)
+
 You can yet get a preview of your email, send a new test email and finally _Send_ it.
 
-![](../.gitbook/assets/screenshot-2019-08-23-at-07.04.58.png)
+![](../.gitbook/assets/8.png)
 
 Congrats! 🎉
 

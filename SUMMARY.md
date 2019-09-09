@@ -8,7 +8,8 @@
 
 ## In Practice
 
-* [Setting up a local group](local-group-setup.md)
-* [Using the Rebels Manager](using-the-rebels-manager.md)
-* [Sending emails](sending-emails.md)
-* [Online Services Status](online-status.md)
+* [Setting up a local group](in-practice/local-group-setup.md)
+* [Using the Rebels Manager](in-practice/using-the-rebels-manager.md)
+* [Sending emails](in-practice/sending-emails.md)
+* [Online Services Status](in-practice/online-status.md)
+
