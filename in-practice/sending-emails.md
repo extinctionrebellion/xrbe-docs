@@ -26,7 +26,7 @@ You may create other lists. In the future, we may have synchronized lists for al
 
 ### Specifying test emails
 
-This is useful to send test emails to yourself. Find your subscription is the Subscribers list, edit it and check the _Test user?_ box.
+This is useful to send test emails to yourself. Find your subscription is the Subscribers list, click the _Edit_ icon and check the _Test user?_ box.
 
 ![](../.gitbook/assets/2.png)
 
