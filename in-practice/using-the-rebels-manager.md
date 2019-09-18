@@ -20,7 +20,7 @@ Each local group has credentials to the Rebels Manager. This app allows them to 
 Please first get in touch with it@extinctionrebellion.be and provide your website URL. We will need to allow signups from your website beforehand.
 
 ```markup
-<form method="post" action="https://rebels.extinctionrebellion.be/rebels">
+<form method="post" action="https://rebels.extinctionrebellion.be/public/rebels">
   <input type="text" name="rebel[name]" id="rebel_name">
   <input type="email" name="rebel[email]" id="rebel_email" required>
   <input type="tel" name="rebel[phone]" id="rebel_phone">
