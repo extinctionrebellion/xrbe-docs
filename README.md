@@ -6,11 +6,7 @@ description: >-
 
 # Welcome
 
-## Who is this for?
-
-This documentation is meant for anyone who wants to learn more about Extinction Rebellion Belgium but also for any rebel that wants to learn how we work. 
-
-## Other places
+## Directory
 
 <table>
   <thead>
