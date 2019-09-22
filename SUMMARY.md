@@ -10,3 +10,7 @@
 * [Sending emails](in-practice/sending-emails.md)
 * [Online Services Status](in-practice/online-status.md)
 
+## XR Brussels <a id="brussels"></a>
+
+* [Welcome](brussels/welcome.md)
+
