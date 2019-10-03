@@ -3,6 +3,10 @@
 * [Welcome](README.md)
 * [Principles and values](principles-and-values.md)
 
+## Actions
+
+* [Police](actions/police.md)
+
 ## In Practice
 
 * [Setting up a local group](in-practice/local-group-setup.md)
