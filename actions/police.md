@@ -25,6 +25,8 @@ See this [document in French written by "La Ligue des Droits Humains](http://www
 * We can film police actions
 * They can't force us to delete any image/video we took
 
+See also the [guidelines for sending in photos and videos](https://docs.google.com/document/d/1DPv7SuUS_5NUEYgm4Mw4FcFCiIkilFIaZ3o6-vpM-NM).
+
 ## In case of arrest
 
 See the legal briefing by our friends at RiseUp \([FR](https://drive.google.com/open?id=0B_svv2S0hcswRkN6X3VDSnQzZFJWZlpCRGdDNVBnX1JBQ3Y0), [NL](https://drive.google.com/open?id=0B_svv2S0hcswamhvcHlKSmxiWUFqak1lWGJNamE3THBONkM0)\), TLDR:
