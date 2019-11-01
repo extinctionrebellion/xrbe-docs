@@ -20,12 +20,15 @@ We have nothing to hide. Our goal is to get arrested anyway. So we tell in advan
 
 ## We can film the police
 
-See this [document in French written by "La Ligue des Droits Humains](http://www.liguedh.be/wp-content/uploads/2017/07/filmer_la_police_le_livret.pdf)". TLDR:
+> “The law does not forbid taking pictures or recording videos a police action in the public space” - [RTBF](https://www.rtbf.be/info/inside/detail_extinction-rebellion-pouvait-on-filmer-les-arrestations-par-la-police) \(in French\)
 
 * We can film police actions
 * They can't force us to delete any image/video we took
 
-See also the [guidelines for sending in photos and videos](https://docs.google.com/document/d/1DPv7SuUS_5NUEYgm4Mw4FcFCiIkilFIaZ3o6-vpM-NM).
+Links:
+
+* See this [document in French written by "La Ligue des Droits Humains](http://www.liguedh.be/wp-content/uploads/2017/07/filmer_la_police_le_livret.pdf)". TLDR:
+* [guidelines for sending in photos and videos](https://docs.google.com/document/d/1DPv7SuUS_5NUEYgm4Mw4FcFCiIkilFIaZ3o6-vpM-NM).
 
 ## In case of arrest
 
