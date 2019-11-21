@@ -18,3 +18,7 @@
 
 * [Welcome](brussels/welcome.md)
 
+## Finance
+
+* [Expense Policy](finance/expense-policy.md)
+
