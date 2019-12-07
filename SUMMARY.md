@@ -21,4 +21,5 @@
 ## Finance
 
 * [Expense Policy](finance/expense-policy.md)
+* [Decision making process](decision-making-process.md)
 
