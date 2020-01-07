@@ -12,9 +12,19 @@ This is a living document. As the movement grows, we need to regularly adapt our
 
 If you have an expense for less than 50 euros for art supplies, printing \(stickers, posters, flyers, …\) or public transport from/to an XR meeting, you can simply submit it on [https://finance.extinctionrebellion.be](https://finance.extinctionrebellion.be/) and you will be reimbursed. Make sure you add as a comment for which XR working group or action this expense is relating to. Make sure you also follow the guidelines \(favor sustainable products, local economy, second hand, …\).
 
-* For expenses between 50 and 250 euros, please check with one of the trustees. \(TODO: add list after election\)
+* For expenses between 50 and 250 euros, please check with one of the trustees. \(see below\)
 * For expenses between 250 and 500 euros, please check with at least two of the trustees.
 * For expenses above 500 euros, please check with at least 3 of the trustees.
+
+## Board of trustees
+
+From January 2020 till June 2020. Please [vote for next board here](https://forms.gle/tJySx2kPNamTMGgb7). 
+
+* _Majo \(Female, Ghent,_ [_majo4future@protonmail.com_](mailto:majo4future@protonmail.com)_\)_
+* _Lino \(Male, Brussels,_ [_sysyfo@protonmail.com_](mailto:sysyfo@protonmail.com)_\)_
+* Nancy \(Female, Tournai, [_alelitmelwhis@protonmail.com_](mailto:alelitmelwhis@protonmail.com)_\)_
+
+_\(3 more waiting for confirmation\)_
 
 ## Special expenses
 
