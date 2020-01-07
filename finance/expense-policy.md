@@ -18,7 +18,8 @@ If you have an expense for less than 50 euros for art supplies, printing \(stick
 
 ## Board of trustees
 
-From January 2020 till June 2020. Please [vote for next board here](https://forms.gle/tJySx2kPNamTMGgb7). 
+From January 2020 till June 2020.  
+Their role is to approve expenses. Feel free to reach out to them if you have questions about an expense that you'd like to make for the movement. They are elected for 6 months. Please [vote for next board here](https://forms.gle/tJySx2kPNamTMGgb7). 
 
 * _Majo \(Female, Ghent,_ [_majo4future@protonmail.com_](mailto:majo4future@protonmail.com)_\)_
 * _Lino \(Male, Brussels,_ [_sysyfo@protonmail.com_](mailto:sysyfo@protonmail.com)_\)_
