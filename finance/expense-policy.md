@@ -21,11 +21,12 @@ If you have an expense for less than 50 euros for art supplies, printing \(stick
 From January 2020 till June 2020.  
 Their role is to approve expenses. Feel free to reach out to them if you have questions about an expense that you'd like to make for the movement. They are elected for 6 months. Please [vote for next board here](https://forms.gle/tJySx2kPNamTMGgb7). 
 
-* _Majo \(Female, Ghent,_ [_majo4future@protonmail.com_](mailto:majo4future@protonmail.com)_\)_
-* _Lino \(Male, Brussels,_ [_sysyfo@protonmail.com_](mailto:sysyfo@protonmail.com)_\)_
-* Nancy \(Female, Tournai, [_alelitmelwhis@protonmail.com_](mailto:alelitmelwhis@protonmail.com)_\)_
+* _Majo \(She/Her, Ghent,_ [_majo4future@protonmail.com_](mailto:majo4future@protonmail.com)_\)_
+* _Lino \(He/His, Brussels,_ [_sysyfo@protonmail.com_](mailto:sysyfo@protonmail.com)_\)_
+* Nancy \(She/Her, Tournai, [_alelitmelwhis@protonmail.com_](mailto:alelitmelwhis@protonmail.com)_\)_
+* _Mees \(They/Them, Leuven,_ [_meesbibberkoud@protonmail.com_](mailto:meesbibberkoud@protonmail.com)_\)_
 
-_\(3 more waiting for confirmation\)_
+_\(2 more waiting for confirmation\)_
 
 ## Special expenses
 
