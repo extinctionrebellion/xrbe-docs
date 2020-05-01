@@ -30,7 +30,7 @@ Please contact the [Digital Infrastructure Circle on Mattermost](https://organis
     <tr>
       <td style="text-align:left"><a href="https://base.extinctionrebellion.be">base.extinctionrebellion.be</a>
         <br
-        />Discourse (forum)</td>
+        />Discourse (community forum)</td>
       <td style="text-align:right">
         <img src="https://img.shields.io/website/https/base.extinctionrebellion.be?down_color=red&amp;down_message=offline&amp;label=is&amp;style=flat-square&amp;up_color=green&amp;up_message=online"
         alt="base.extinctionrebellion.be" />

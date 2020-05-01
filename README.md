@@ -18,26 +18,28 @@ description: >-
   <tbody>
     <tr>
       <td style="text-align:left">Website</td>
-      <td style="text-align:left">
-        <p><a href="https://extinctionrebellion.be/">https://extinctionrebellion.be</a>
-        </p>
-        <p>Public website (slow updates)</p>
+      <td style="text-align:left"><a href="https://extinctionrebellion.be/">extinctionrebellion.be</a>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Facebook page</td>
-      <td style="text-align:left"><a href="https://www.facebook.com/ExtinctionRebellionBE/">https://facebook.com/ExtinctionRebellionBE</a>
+      <td style="text-align:left">Facebook</td>
+      <td style="text-align:left"><a href="https://www.facebook.com/ExtinctionRebellionBE/">facebook.com/ExtinctionRebellionBE</a>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Twitter</td>
-      <td style="text-align:left"><a href="https://twitter.com/XR_Belgium">https://twitter.com/XR_Belgium</a>
+      <td style="text-align:left"><a href="https://twitter.com/XR_Belgium">twitter.com/XR_Belgium</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Community forum</td>
+      <td style="text-align:left"><a href="https://base.extinctionrebellion.be/">base.extinctionrebellion.be</a>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Starter Kit</td>
       <td style="text-align:left">
-        <p><a href="https://join.extinctionrebellion.be/">https://join.extinctionrebellion.be</a>
+        <p><a href="https://join.extinctionrebellion.be/">join.extinctionrebellion.be</a>
         </p>
         <p>Learn how to join or create a local group or a working group</p>
       </td>
@@ -45,34 +47,24 @@ description: >-
     <tr>
       <td style="text-align:left">Public drive</td>
       <td style="text-align:left">
-        <p><a href="https://drive.extinctionrebellion.be/">https://drive.extinctionrebellion.be</a>
-        </p>
-        <p>All documents, photos, videos, presentations from the different local
-          groups and working groups</p>
+        <p><a href="https://drive.extinctionrebellion.be/">drive.extinctionrebellion.be</a> (Google)</p>
+        <p>Documents, photos, videos, and presentations from our national circles
+          and local groups</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Self Organized System</td>
+      <td style="text-align:left">Self-Organising System</td>
       <td style="text-align:left">
-        <p><a href="https://sos.extinctionrebellion.be/">https://sos.extinctionrebellion.be</a>
-        </p>
-        <p>Map of all national working groups</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Forum</td>
-      <td style="text-align:left">
-        <p><a href="https://base.extinctionrebellion.be/">https://base.extinctionrebellion.be</a>
-        </p>
-        <p>Conversations, debates, discussions</p>
+        <p><a href="https://sos.extinctionrebellion.be/">sos.extinctionrebellion.be</a> (Glassfrog)</p>
+        <p>A map of our national circles</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Finance</td>
       <td style="text-align:left">
-        <p><a href="https://opencollective.com/XR-Belgium">https://finance.extinctionrebellion.be</a>
-        </p>
-        <p>All our expenses and donations</p>
+        <p><a href="https://opencollective.com/XR-Belgium">finance.extinctionrebellion.be</a> (Open
+          Collective)</p>
+        <p>A record of our expenses and donations</p>
       </td>
     </tr>
   </tbody>
