@@ -24,11 +24,13 @@ We have nothing to hide. Our goal is to get arrested anyway. So we tell in advan
 
 * We can film police actions
 * They can't force us to delete any image/video we took
+* We can publish pictures without blurring the face of police officers
 
 Links:
 
-* See this [document in French written by "La Ligue des Droits Humains](http://www.liguedh.be/wp-content/uploads/2017/07/filmer_la_police_le_livret.pdf)". TLDR:
-* [guidelines for sending in photos and videos](https://docs.google.com/document/d/1DPv7SuUS_5NUEYgm4Mw4FcFCiIkilFIaZ3o6-vpM-NM).
+* See this [document in French written by "La Ligue des Droits Humains](http://www.liguedh.be/wp-content/uploads/2017/07/filmer_la_police_le_livret.pdf)". 
+* [Justice confirms the right to publish images of police officers](http://www.liguedh.be/proces-dont-shoot-la-justice-confirme-le-droit-de-diffuser-des-images-non-floutees-de-la-police/) \(in French\)
+* [guidelines for sending in photos and videos](https://docs.google.com/document/d/1DPv7SuUS_5NUEYgm4Mw4FcFCiIkilFIaZ3o6-vpM-NM) to XR Belgium.
 
 ## In case of arrest
 

@@ -68,7 +68,9 @@ description: >-
       </td>
     </tr>
   </tbody>
-</table>## Who is maintaining this documentation repository?
+</table>
+
+## Who is maintaining this documentation repository?
 
 * Leen Schelfhout \(XR Antwerp\) \([email](mailto:leen.schelfhout@protonmail.com)\)
 * Xavier Damman \(XR UK Fundraising, XR Belgium\) \([email](mailto:citizenspring@protonmail.com)\)
