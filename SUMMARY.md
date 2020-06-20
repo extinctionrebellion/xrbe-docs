@@ -22,4 +22,5 @@
 ## Finance
 
 * [Expense Policy](finance/expense-policy.md)
+* [Donor Due Diligence](finance/donor-due-diligence.md)
 
