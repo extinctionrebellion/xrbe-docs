@@ -12,11 +12,11 @@ This is a living document. As the movement grows, we need to regularly adapt our
 
 If you have an expense for less than 50 euros for art supplies, printing \(stickers, posters, flyers, …\) or public transport from/to an XR meeting, you can simply submit it on [https://finance.extinctionrebellion.be](https://finance.extinctionrebellion.be/) and you will be reimbursed. Make sure you add as a comment for which XR working group or action this expense is relating to. Make sure you also follow the guidelines \(favor sustainable products, local economy, second hand, …\).
 
-* For expenses between 50 and 250 euros, please check with one of the trustees. \(see below\)
-* For expenses between 250 and 500 euros, please check with at least two of the trustees.
-* For expenses above 500 euros, please check with at least 3 of the trustees.
+* For expenses between 50 and 250 euros, please check with one of the finance monitors \(see below\)
+* For expenses between 250 and 500 euros, please check with at least two of the finance monitors
+* For expenses above 500 euros, please check with at least 3 of the finance monitors
 
-## Board of trustees
+## Board of Finance Monitors
 
 From January 2020 till June 2020.  
 Their role is to approve expenses. Feel free to reach out to them if you have questions about an expense that you'd like to make for the movement. They are elected for 6 months. Please [vote for next board here](https://forms.gle/tJySx2kPNamTMGgb7). 
@@ -43,21 +43,21 @@ Conditions:
 * Rebel must report on their training by doing one of the following:
   * Do a meetup / presentation to share experience
   * Do a short video or blog post on social media that we can reshare
-* One trustee to approve + one other person of the same working group \(if different\)
+* One finance monitor to approve + one other person of the same working group \(if different\)
 
 ### Legal support
 
 We have created a dedicated collective for Legal Support: [https://opencollective.com/XR-Belgium-Legal](https://opencollective.com/XR-Belgium-Legal)
 
-Please submit your legal costs related expenses to that collective. We have seeded this collective with 500 euros. One of the first decisions of the elected trustees would be to agree on increasing our contribution to that circle.
+Please submit your legal costs related expenses to that collective. We have seeded this collective with 500 euros. One of the first decisions of the elected finance monitors would be to agree on increasing our contribution to that circle.
 
 ## FAQ
 
 \(please feel free to add questions here\)
 
-### What is a trustee?
+### What is a finance monitor?
 
-A trustee is a rebel that we collectively trust to approve expenses on behalf of the movement. They are elected through an election without candidates so that we can surface in a fair way the different rebels across the country that other rebels trust.
+A finance monitor is a rebel that we collectively trust to approve expenses on behalf of the movement. They are elected through an election without candidates so that we can surface in a fair way the different rebels across the country that other rebels trust.
 
 We are electing 10 of them and we will keep a good gender, age and regional balance so that you all have multiple ones you can reach out to. They can stay for a maximum of 6 months in that position to enforce a rotation \(and actively mitigate for power\). If you haven’t elected a trusted rebel yet, you can do so here [https://forms.gle/tJySx2kPNamTMGgb7](https://forms.gle/tJySx2kPNamTMGgb7) — any time we need to elect a new rebel, we will look at all the votes of the past 6 months.
 
@@ -69,7 +69,7 @@ As always, try first to get a room for free but if really needed, you can rent a
 
 If you need to spend a full day for XR \(e.g. as a trainer, facilitator or organizer\), you can claim a volunteer compensation for maximum 34.71 euros per day and max 1.388,40 euros per year \(across all the volunteer work that you do for any organization\). Please use the template on [https://opencollective.com/XR-Belgium/expenses/new](https://opencollective.com/XR-Belgium/expenses/new) to claim such compensation.
 
-Make sure that the coordinator of your circle/working group and at least one trustee are signing off.
+Make sure that the coordinator of your circle/working group and at least one finance monitor are signing off.
 
 ## Philosophy
 
