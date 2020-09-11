@@ -4,6 +4,13 @@ description: Due Diligence principles for XR Belgium when fundraising
 
 # Donor Due Diligence
 
+{% hint style="info" %}
+**En français:**   
+[Principes de diligence raisonnable s'appliquant aux collectes de fonds de Extinction Rebellion \(XR\) Belgique](https://public.3.basecamp.com/p/hrwQoaqTwvuRKpXfGUhZa8Ku)  
+**In het nederlands:**   
+[Due Diligence-principes voor XR Belgium bij fondsenwerving](https://public.3.basecamp.com/p/A9UDDbzRkhsmP6Be13KJSSj9)
+{% endhint %}
+
 ### Why do we need this? 
 
 As a movement we are decentralised and autonomous in our actions, bound together by guiding principles. Our fundraising should, wherever possible, aim to strengthen these principles and enshrine them in our actions and future activities of our funders.
